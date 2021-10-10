@@ -1,0 +1,24 @@
+# Dependencies
+markdown:            kramdown
+
+redcarpet:
+  extensions: ["tables", "fenced_code_block"]
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+exclude:      ["*.Rmd"]
+
+
+# Setup
+title:               Analiza Danych w czasie rzeczywistym
+tagline:             'kurs dla studentów SGH'
+description:         'Real-Time Analytics'
+url:                 https://kfaryn.github.io/strona
+baseurl:             "/strona"             
+paginate:            5
+
+# Custom vars
+version:             1.0.0
