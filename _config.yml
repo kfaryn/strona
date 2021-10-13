@@ -13,9 +13,9 @@ exclude:      ["*.Rmd"]
 
 
 # Setup
-title:               Analiza Danych w czasie rzeczywistym
-tagline:             'kurs dla studentów SGH'
-description:         'Real-Time Analytics'
+title:               Wyprawy piesze
+tagline:             'Ciekawe od czego jest ta linijka'
+description:         'Tutaj będą umieszczane bierzące informacje'
 url:                 https://kfaryn.github.io/strona
 baseurl:             "/strona"             
 paginate:            5
