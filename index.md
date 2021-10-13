@@ -1,4 +1,4 @@
-# Na ten momoment nie zaplanowano rzadnych wypraw.
+# Na ten momoment nie zaplanowano żadnych wypraw.
 
 
 Jeśli jakieś zostana zaplanowane ich godzina i miejsce pojawią się poniżej:
