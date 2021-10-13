@@ -7,6 +7,6 @@ Jeśli jakieś zostana zaplanowane ich godzina i miejsce pojawią się poniżej:
 szlaku pieszego
 ```
 
-<img alt="Dane" src="https://kfaryn.github.io/strona/img/onie.jpeg" align="center" />
+<img alt="Dane" src="https://kfaryn.github.io/strona/img/onie.png" align="center" />
 
 
