@@ -1,15 +1,12 @@
-# Witam na oficjalnej stronie Parcour Autistic Assistas Group
+# Na ten momoment nie zaplanowano rzadnych wypraw.
 
-Jest to strona poświęcona wyjściom, spotkaniom i wypadom sportowym.
-
-## Cel strony
-
-Celem tej strony jest sprawdzenie jak trudno tworzy się takie rzeczy, oraz jest to jeden z celów edukacyjnych przedmiotu na uczelni.
+Jeśli jakieś zostana zaplanowane ich godzina i miejsce pojawią się poniżej:
 
 ```markdown
-Poniżej prezentowane są sekcje, gdzie każdy może kliknąć i zobaczyć czy nie
-szykuje się coś nowego. Dodatkowo jest dedykowana zakładka dla najlepszego.
-Jak to mówią "Tyrtum pyrtum"!
+25.10.21 g.7:00 Glinianka - Otwock , ponowne zaatakowanie powszechnie lubianego
+szlaku pieszego
 ```
 
-## Wyprawy oraz wyjścia sportowe
+<img alt="Dane" src="https://kfaryn.github.io/strona/img/onie.jpeg" align="center" />
+
+
