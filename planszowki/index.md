@@ -22,7 +22,7 @@ to koszt 49,90 zł. Biorąc pod uwagę, że będzie 8-9 osób, a bez najlepszego
 4, za <b>14,25 zł/12,5 zł</b> wyjdzie <u>połowa lub połowa +1 kawałek</u> pizzy na głowę. Cena dodtyczy pizz podstawowych, ale carbonara czy inna capriciosa wchodzi.
 Zostawiam do przemyślenia;)
 
-:cupcake: <b style="color:yellow;"> Bohaterowie przynoszą słodką.</b>:cupcake:
+*:cupcake: **Bohaterowie przynoszą słodką.** :cupcake:
 
 W razie zainteresowania link poniżej:
 [Link do oferty](https://www.dominospizza.pl/)
