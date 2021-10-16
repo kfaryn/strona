@@ -1,20 +1,20 @@
 # Planszówki
 
-Poniżej znajdują się daty planszówek, prośba o przyniesienie konkretnego prowiantu, oraz gdy które proszę przynieść
+Poniżej znajdują się daty planszówek, prośba o przyniesienie konkretnego prowiantu, oraz gry które proszę przynieść.
 
 ## Najbliższe spotkania
 
 ```markdown
-17/10/21 g.17:00 przypominam nr 54
+17/10/21 g.17:00 przypominam nr 54.
 
 Prowiant:
-Proszę kto może o przyniesienie picia i jednej przekąski - bohaterowie przynoszą słodką.
+Proszę kto może o przyniesienie picia i jednej przekąski - <i style="color:yellow">bohaterowie przynoszą słodką.</i>
 
 Gry:
-@ Diament DBFO Ursynów proszę o przyniesienie Marrakeszu i Splendoru
+@ Diament DBFO Ursynów proszę o przyniesienie Marrakeszu i Splendoru.
 
 W programie:
-Pierdzioch, Czółko, Geotastic, Gry przyniesione przez Brodatego
+Pierdzioch, Czółko, Geotastic, Gry przyniesione przez Brodatego.
 ```
 
 PS: W Domino's trwa promocja 2 pizze w cenie jednej, co oznacza, że 2 pizze xxl 46 cm, 10 kawałków
