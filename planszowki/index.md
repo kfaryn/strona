@@ -8,7 +8,7 @@ Poniżej znajdują się daty planszówek, prośba o przyniesienie konkretnego pr
 17/10/21 g.17:00 przypominam nr 54.
 
 Prowiant:
-Proszę kto może o przyniesienie picia i jednej przekąski - <i style="color:yellow;">bohaterowie przynoszą słodką.</i>
+Proszę kto może o przyniesienie picia i jednej przekąski - <p style="color:yellow;">bohaterowie przynoszą słodką.</p>
 
 Gry:
 @ Diament DBFO Ursynów proszę o przyniesienie Marrakeszu i Splendoru.
