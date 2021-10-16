@@ -9,7 +9,7 @@ Poniżej znajdują się daty planszówek, prośba o przyniesienie konkretnego pr
 
 Prowiant:
 Proszę kto może o przyniesienie picia i jednej przekąski.
-# :cupcake: *Bohaterowie przynoszą słodką.* :cupcake:
+:cupcake: Bohaterowie przynoszą słodką.:cupcake:
 
 Gry:
 @ Diament DBFO Ursynów proszę o przyniesienie Marrakeszu i Splendoru.
@@ -22,6 +22,8 @@ PS: W Domino's trwa promocja 2 pizze w cenie jednej, co oznacza, że 2 pizze xxl
 to koszt 49,90 zł. Biorąc pod uwagę, że będzie 8-9 osób, a bez najlepszego 7-8 do zrzuty, zamawiając
 4, za <b>14,25 zł/12,5 zł</b> wyjdzie <u>połowa lub połowa +1 kawałek</u> pizzy na głowę. Cena dodtyczy pizz podstawowych, ale carbonara czy inna capriciosa wchodzi.
 Zostawiam do przemyślenia;)
+
+:cupcake: Bohaterowie przynoszą słodką.:cupcake:
 
 W razie zainteresowania link poniżej:
 [Link do oferty](https://www.dominospizza.pl/)
