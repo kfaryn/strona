@@ -16,7 +16,7 @@ Gry:
 W programie:
 Pierdzioch, Czółko, Geotastic, Gry przyniesione przez Brodatego.
 ``` 
-(1):cupcake: **Bohaterowie przynoszą słodką.** :cupcake:
+(1) <b style="color:pink;"> Bohaterowie przynoszą słodką. </b> :cupcake:
 
 PS: W Domino's trwa promocja 2 pizze w cenie jednej, co oznacza, że 2 pizze xxl 46 cm, 10 kawałków
 to koszt 49,90 zł. Biorąc pod uwagę, że będzie 8-9 osób, a bez najlepszego 7-8 do zrzuty, zamawiając
