@@ -1,8 +1,8 @@
 # Planszówki
 
-Poniżej znajdują się daty planszówek, prośba o przyniesienie konkretnego prowiantu, oraz gry które proszę przynieść.
+Poniżej znajdują się daty planszówek, prośba o przyniesienie konkretnego prowiantu oraz gry, które proszę przynieść.
 
-## Najbliższe spotkania
+## Najbliższe spotkanie:
 
 ```markdown
 17/10/21 g.17:00 przypominam nr 54.
