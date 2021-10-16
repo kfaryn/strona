@@ -8,8 +8,7 @@ Poniżej znajdują się daty planszówek, prośba o przyniesienie konkretnego pr
 17/10/21 g.17:00 przypominam nr 54.
 
 Prowiant:
-Proszę kto może o przyniesienie picia i jednej przekąski.
-<b>Bohaterowie przynoszą słodką.</b>
+Proszę kto może o przyniesienie picia i jednej przekąski.<b>Bohaterowie przynoszą słodką.</b>
 
 
 Gry:
