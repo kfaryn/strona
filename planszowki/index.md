@@ -8,16 +8,15 @@ Poniżej znajdują się daty planszówek, prośba o przyniesienie konkretnego pr
 17/10/21 g.17:00 przypominam nr 54.
 
 Prowiant:
-Proszę kto może o przyniesienie picia i jednej przekąski. \*
+Proszę kto może o przyniesienie picia i jednej przekąski. (1)
 
 Gry:
 @ Diament DBFO Ursynów proszę o przyniesienie Marrakeszu i Splendoru.
 
 W programie:
 Pierdzioch, Czółko, Geotastic, Gry przyniesione przez Brodatego.
-```
-\* 
-:cupcake: **Bohaterowie przynoszą słodką.** :cupcake:
+``` 
+(1):cupcake: **Bohaterowie przynoszą słodką.** :cupcake:
 
 PS: W Domino's trwa promocja 2 pizze w cenie jednej, co oznacza, że 2 pizze xxl 46 cm, 10 kawałków
 to koszt 49,90 zł. Biorąc pod uwagę, że będzie 8-9 osób, a bez najlepszego 7-8 do zrzuty, zamawiając
