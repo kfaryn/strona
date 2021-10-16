@@ -9,7 +9,7 @@ Poniżej znajdują się daty planszówek, prośba o przyniesienie konkretnego pr
 
 Prowiant:
 Proszę kto może o przyniesienie picia i jednej przekąski.
-<span style="color:yellow">Bohaterowie przynoszą *yellow* słodką</span>.
+<span style="color:blue">Bohaterowie przynoszą *blue* słodką</span>.
 
 Gry:
 @ Diament DBFO Ursynów proszę o przyniesienie Marrakeszu i Splendoru.
