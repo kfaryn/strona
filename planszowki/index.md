@@ -9,13 +9,7 @@ Poniżej znajdują się daty planszówek, prośba o przyniesienie konkretnego pr
 
 Prowiant:
 Proszę kto może o przyniesienie picia i jednej przekąski.
-<html>
-<body>
-
-<p style="color:yellow;">Bohaterowie przynoszą słodką.</p>
-  
-</body>
-</html>
+<b>Bohaterowie przynoszą słodką.</b>
 
 
 Gry:
