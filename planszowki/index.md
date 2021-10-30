@@ -5,23 +5,24 @@ Poniżej znajdują się daty planszówek, prośba o przyniesienie konkretnego pr
 ## Najbliższe spotkanie:
 
 ```markdown
-17/10/21 g.17:00 przypominam nr 54.
+31/10/21 (Niedziela) g.17:00 przypominam nr 54.
 
 Prowiant:
-Proszę kto może o przyniesienie picia i jednej przekąski. (1)
+Wyjątkowo gry zostają obarczone składką wynosząco 8 zł,
+co wynika z pełnej palety przekąsek słonych i słodkich,
+w tym również "trumienek" i pierniczków Domy.
+Piciu też jest multum.
 
 Gry:
-@ Diament DBFO Ursynów proszę o przyniesienie Marrakeszu i Splendoru.
+@ Diament DBFO Ursynów proszę o przyniesienie Karaluchów koniecznie +
+  gier, które uważasz za stosowne na kilka osób zanim wszyscy się zjawią.
 
 W programie:
-Pierdzioch, Czółko, Geotastic, Gry przyniesione przez Brodatego.
+Quiz z nowinką, mafia, czułko, 5 sekund, tajni ludzie, eTabu, karaluchy.
 ``` 
-(1) <b style="color:pink;"> Bohaterowie przynoszą słodką. </b> 🧁🧁🧁
 
-PS: W Domino's trwa promocja 2 pizze w cenie jednej, co oznacza, że 2 pizze xxl 46 cm, 10 kawałków
-to koszt 49,90 zł. Biorąc pod uwagę, że będzie 8-9 osób, a bez najlepszego 7-8 do zrzuty, zamawiając
-4, za <b>14,25 zł/12,5 zł</b> wyjdzie <u>połowa lub połowa +1 kawałek</u> pizzy na głowę. Cena dotyczy pizz podstawowych, ale carbonara czy inna capriciosa wchodzi.
-Zostawiam do przemyślenia;)
+PS bo nadal aktualne: W Domino's trwa promocja 2 pizze w cenie jednej, co oznacza, że 2 pizze xxl 46 cm, 10 kawałków
+to koszt 49,90 zł. Nadal można przemyśleć ;)
 
 W razie zainteresowania link poniżej:
 [Link do oferty](https://www.dominospizza.pl/)
