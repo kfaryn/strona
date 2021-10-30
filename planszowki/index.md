@@ -4,6 +4,8 @@ Poniżej znajdują się daty planszówek, prośba o przyniesienie konkretnego pr
 
 ## Najbliższe spotkanie:
 
+👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻
+
 ```markdown
 31/10/21 (Niedziela) g.17:00 przypominam nr 54.
 
@@ -20,6 +22,7 @@ Gry:
 W programie:
 Quiz z nowinką, mafia, czułko, 5 sekund, tajni ludzie, eTabu, karaluchy.
 ``` 
+👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻👻
 
 PS bo nadal aktualne: W Domino's trwa promocja 2 pizze w cenie jednej, co oznacza, że 2 pizze xxl 46 cm, 10 kawałków
 to koszt 49,90 zł. Nadal można przemyśleć ;)
